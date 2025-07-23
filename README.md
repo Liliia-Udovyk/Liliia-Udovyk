@@ -7,41 +7,7 @@
 
 ### Technologies
 
-* JavaScript
-* React
-* TypeScript
-* Next.js
-* Nest.js
-* Node.js*
-* Express.js
-* Redux
-* Redux-Saga
-* Rx.js
-* Passport.js
-* MongoDB
-* Mongoose
-* MySQL
-* Supabase
-* TypeORM
-* React Query
-* Tailwind UI
-* Chakra UI
-* ShadCN
-* OpenAI API
-* HTML5
-* CSS3
-* SCSS
-* Grid
-* AJAX
-* RESTful API
-* Axios
-* Socket.IO
-* Stripe
-* Google Maps API
-* Cypress.io
-* Jest
-* GraphQL
-* Ant Design
+JavaScript * React  *  TypeScript  *  Next.js  *  Nest.js * Node.js * Express.js * Redux * Redux-Saga * Rx.js * Passport.js * MongoDB * Mongoose * MySQL * Supabase * TypeORM * React Query * Tailwind UI * Chakra UI * ShadCN * OpenAI API * HTML5 * CSS3 * SCSS * Grid * AJAX * RESTful API * Axios * Socket.IO * Stripe * Google APIs * Cypress.io * Jest * Ant Design
 
 ### Professional experience
 
